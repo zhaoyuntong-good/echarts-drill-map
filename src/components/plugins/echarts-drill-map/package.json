@@ -1,0 +1,19 @@
+{
+  "name": "echarts-drill-map",
+  "version": "0.0.1",
+  "description": "echarts drill down map",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "echarts",
+    "map"
+  ],
+  "author": "zhaoyuntong",
+  "license": "ISC"
+}
